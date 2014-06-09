@@ -1,0 +1,107 @@
+# This is llgal's captions file, first generated on Wed May 28 08:45:08 2014
+# invoked with --Pall --Ps --gc --cf
+
+# Use the following syntax (without the begining '# ') to define captions line:
+# TITLE: title of the index
+# PARENT: label of the link to the parent gallery
+# PREV: label of the link to the previous gallery ---- url of the previous gallery
+# NEXT: label of the link to the next gallery ---- url of the next gallery
+# INDEXHEAD: one header line in the index
+# INDEXFOOT: one header line in the index
+# TXT: text ---- caption
+# LNK: url ---- slide link text ---- caption
+# IMG: imagefile.{gif,png,jpg,jpeg} ---- caption
+# MVI: movie.{avi,mpg,mpeg} ---- slide link text ---- caption
+# FIL: file ---- slide link text ---- caption
+# DIR: directory ---- slide link text ---- caption
+# BREAK
+# LINE
+# REPLACE: text ---- replacement
+
+LINE
+TXT: Time ---- Time
+LINE
+TXT: Scene 1 ---- Scene 1
+IMG: Scene 1/52.png ---- Scene 1/52
+IMG: Scene 1/170.png ---- Scene 1/170
+IMG: Scene 1/175.png ---- Scene 1/175
+IMG: Scene 1/320.png ---- Scene 1/320
+IMG: Scene 1/408.png ---- Scene 1/408
+IMG: Scene 1/414.png ---- Scene 1/414
+IMG: Scene 1/486.png ---- Scene 1/486
+IMG: Scene 1/487.png ---- Scene 1/487
+IMG: Scene 1/488.png ---- Scene 1/488
+IMG: Scene 1/490.png ---- Scene 1/490
+IMG: Scene 1/531.png ---- Scene 1/531
+IMG: Scene 1/537.png ---- Scene 1/537
+IMG: Scene 1/538.png ---- Scene 1/538
+IMG: Scene 1/562.png ---- Scene 1/562
+IMG: Scene 1/563.png ---- Scene 1/563
+IMG: Scene 1/564.png ---- Scene 1/564
+IMG: Scene 1/637.png ---- Scene 1/637
+IMG: Scene 1/638.png ---- Scene 1/638
+IMG: Scene 1/640.png ---- Scene 1/640
+IMG: Scene 1/641.png ---- Scene 1/641
+IMG: Scene 1/642.png ---- Scene 1/642
+IMG: Scene 1/659.png ---- Scene 1/659
+IMG: Scene 1/660.png ---- Scene 1/660
+IMG: Scene 1/661.png ---- Scene 1/661
+IMG: Scene 1/832.png ---- Scene 1/832
+IMG: Scene 1/833.png ---- Scene 1/833
+IMG: Scene 1/834.png ---- Scene 1/834
+IMG: Scene 1/835.png ---- Scene 1/835
+IMG: Scene 1/838.png ---- Scene 1/838
+IMG: Scene 1/855.png ---- Scene 1/855
+IMG: Scene 1/856.png ---- Scene 1/856
+IMG: Scene 1/857.png ---- Scene 1/857
+IMG: Scene 1/859.png ---- Scene 1/859
+IMG: Scene 1/860.png ---- Scene 1/860
+IMG: Scene 1/861.png ---- Scene 1/861
+IMG: Scene 1/862.png ---- Scene 1/862
+IMG: Scene 1/864.png ---- Scene 1/864
+IMG: Scene 1/865.png ---- Scene 1/865
+IMG: Scene 1/881.png ---- Scene 1/881
+LINE
+TXT: Scene 2 Part 1 ---- Scene 2 Part 1
+IMG: Scene 2 Part 1/985.png ---- Scene 2 Part 1/985
+IMG: Scene 2 Part 1/1004.png ---- Scene 2 Part 1/1004
+IMG: Scene 2 Part 1/1005.png ---- Scene 2 Part 1/1005
+IMG: Scene 2 Part 1/1006.png ---- Scene 2 Part 1/1006
+IMG: Scene 2 Part 1/1018.png ---- Scene 2 Part 1/1018
+IMG: Scene 2 Part 1/1024.png ---- Scene 2 Part 1/1024
+IMG: Scene 2 Part 1/1025.png ---- Scene 2 Part 1/1025
+IMG: Scene 2 Part 1/1041.png ---- Scene 2 Part 1/1041
+IMG: Scene 2 Part 1/1042.png ---- Scene 2 Part 1/1042
+IMG: Scene 2 Part 1/1044.png ---- Scene 2 Part 1/1044
+IMG: Scene 2 Part 1/1045.png ---- Scene 2 Part 1/1045
+IMG: Scene 2 Part 1/1049.png ---- Scene 2 Part 1/1049
+IMG: Scene 2 Part 1/1050.png ---- Scene 2 Part 1/1050
+IMG: Scene 2 Part 1/1052.png ---- Scene 2 Part 1/1052
+IMG: Scene 2 Part 1/1053.png ---- Scene 2 Part 1/1053
+IMG: Scene 2 Part 1/1058.png ---- Scene 2 Part 1/1058
+IMG: Scene 2 Part 1/1066.png ---- Scene 2 Part 1/1066
+IMG: Scene 2 Part 1/1067.png ---- Scene 2 Part 1/1067
+IMG: Scene 2 Part 1/1069.png ---- Scene 2 Part 1/1069
+IMG: Scene 2 Part 1/1071.png ---- Scene 2 Part 1/1071
+IMG: Scene 2 Part 1/1072.png ---- Scene 2 Part 1/1072
+IMG: Scene 2 Part 1/1073.png ---- Scene 2 Part 1/1073
+IMG: Scene 2 Part 1/1093.png ---- Scene 2 Part 1/1093
+IMG: Scene 2 Part 1/1096.png ---- Scene 2 Part 1/1096
+IMG: Scene 2 Part 1/1123.png ---- Scene 2 Part 1/1123
+IMG: Scene 2 Part 1/1130.png ---- Scene 2 Part 1/1130
+IMG: Scene 2 Part 1/1131.png ---- Scene 2 Part 1/1131
+IMG: Scene 2 Part 1/1142.png ---- Scene 2 Part 1/1142
+IMG: Scene 2 Part 1/1143.png ---- Scene 2 Part 1/1143
+IMG: Scene 2 Part 1/1144.png ---- Scene 2 Part 1/1144
+IMG: Scene 2 Part 1/1146.png ---- Scene 2 Part 1/1146
+IMG: Scene 2 Part 1/1159.png ---- Scene 2 Part 1/1159
+IMG: Scene 2 Part 1/1160.png ---- Scene 2 Part 1/1160
+IMG: Scene 2 Part 1/1161.png ---- Scene 2 Part 1/1161
+IMG: Scene 2 Part 1/1178.png ---- Scene 2 Part 1/1178
+IMG: Scene 2 Part 1/1179.png ---- Scene 2 Part 1/1179
+IMG: Scene 2 Part 1/1184.png ---- Scene 2 Part 1/1184
+IMG: Scene 2 Part 1/1212.png ---- Scene 2 Part 1/1212
+IMG: Scene 2 Part 1/1213.png ---- Scene 2 Part 1/1213
+IMG: Scene 2 Part 1/1218.png ---- Scene 2 Part 1/1218
+IMG: Scene 2 Part 1/1219.png ---- Scene 2 Part 1/1219
+IMG: Scene 2 Part 1/1233.png ---- Scene 2 Part 1/1233

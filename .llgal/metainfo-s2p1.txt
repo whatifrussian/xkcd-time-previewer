@@ -1,0 +1,217 @@
+SECTION: Scene 2 Part 1
+TRELLO: https://trello.com/c/NtUlQAHe/223-time-scene-2-part-1
+NOTABENOID: http://notabenoid.com/book/45955/192145
+
+PNG: 985.png
+ORIG: [Still walking.]
+ORIG: Cueball: Have you ever been this far?
+ORIG: Megan: Not this way.
+[Все еще в пути.]
+Парень: Ты когда-нибудь так далеко заходила?
+Меган: В эту сторону — нет.
+
+PNG: 1004.png
+ORIG: [Still walking.]
+ORIG: Megan: Maybe the sea doesn't end.
+[Все еще в пути.]
+Меган: Может, у моря вообще нет конца.
+
+PNG: 1005.png
+ORIG: Cueball: We haven't walked very far.
+Парень: Не так уж далеко мы зашли.
+
+PNG: 1006.png
+ORIG: Megan: Yeah.
+ORIG: Megan: But that's what the first part of not ending looks like.
+Меган: Ага.
+Меган: Но так и выглядит начало бесконечности.
+
+PNG: 1018.png
+ORIG: [Still walking.]
+ORIG: Megan: If we don't find something today, we'll have to start using the steam bottle.
+ORIG: Cueball: Ugh.
+[Все еще в пути.]
+Меган: Если мы сегодня что-нибудь не найдем, нам придется пускать в ход дистиллятор.
+Парень: Фу.
+
+PNG: 1024.png
+ORIG: Megan: Yes.
+ORIG: Cueball: Yes what?
+Меган: Да.
+Парень: Что «да»?
+
+PNG: 1025.png
+ORIG: [The scene zooms out briefly, showing the opposite shore.]
+ORIG: Megan: There are other rivers.
+[Ненадолго в кадре появляется противоположный берег.]
+Меган: Другие реки есть.
+
+PNG: 1041.png
+ORIG: Cueball: The river isn't moving that fast. Maybe I could-
+ORIG: Megan: Too dangerous.
+ORIG: Cueball: Yeah.
+Парень: Здесь течение не такое уж сильное. Может, мне…
+Меган: Слишком опасно.
+Парень: Мда.
+
+PNG: 1042.png
+ORIG: Megan: It's ok. It was an accident.
+Меган: Ладно уж. Случилось так случилось.
+
+PNG: 1044.png
+ORIG: [The bottle slips below the surface.]
+ORIG: Megan: You're right, though.
+ORIG: Cueball: About what?
+[Бутылка исчезает.]
+Меган: А ведь ты был прав.
+Парень: Насчет чего?
+
+PNG: 1045.png
+ORIG: Megan: The river's _not_ moving very fast.
+Меган: Течение _и правда_ не очень сильное.
+
+PNG: 1049.png
+ORIG: Megan: It can't be flowing much faster than we walk.
+ORIG: Megan: Even if it's as deep as it is wide, I don't think it's enough water.
+Меган: Едва ли оно быстрее нашей ходьбы.
+Меган: Даже будь эта река глубиной в собственную ширину, не думаю, что воды хватило бы.
+
+PNG: 1050.png
+ORIG: Cueball: Yeah.
+Парень: Ага.
+
+PNG: 1052.png
+ORIG: Cueball: And this river doesn't _look_ broken.
+ORIG: Megan: Yeah.
+Парень: К тому же, с этой рекой _вроде как_ все в порядке.
+Меган: Ага.
+
+PNG: 1053.png
+ORIG: Cueball: It's pretty neat, though.
+ORIG: Megan: _Yeah._
+Парень: Да и вообще она классная.
+Меган: _Точно._
+
+PNG: 1058.png
+ORIG: Cueball: Sorry.
+ORIG: Megan: No, right. Forgot.
+Парень: Извини.
+Меган: Да нет, верно. Я забыла.
+
+PNG: 1066.png
+ORIG: [Megan is back after checking the sea level.]
+ORIG: Megan: It's still rising.
+[Меган проверила уровень моря и вернулась.]
+Меган: Вода все еще прибывает.
+
+PNG: 1067.png
+ORIG: Cueball: It's strange - Rivers flow to meet the sea - Maybe the sea couldn't wait.
+Парень: Это странно. Реки текут навстречу морю. Наверное, морю не терпится.
+
+PNG: 1069.png
+ORIG: Megan: Walk upriver to find a ford, or turn back?
+Меган: Пойдем искать брод вверх по реке или вернемся назад?
+
+PNG: 1071.png
+ORIG: Cueball: We can't go back. We don't understand everything yet.
+Парень: Нам нельзя назад. Мы еще не все поняли.
+
+PNG: 1072.png
+ORIG: Megan: "Everything" is a little ambitious. We barely understand _anything._
+ORIG: Cueball: Yeah.
+Меган: «Все» — это слегка амбициозно. Едва ли мы хоть _что-нибудь_ поняли.
+Парень: Да уж.
+
+PNG: 1073.png
+ORIG: Cueball: But that's what the first part of understanding everything looks like.
+Парень: Но так и выглядит начало понимания всего.
+
+PNG: 1093.png
+ORIG: Cueball: If nothing else, I'm glad we found this river. It's not much farther from home than ours at its driest.
+Парень: В любом случае, я рад, что мы нашли эту реку. Она не намного дальше от дома, чем наша на пике отлива.
+
+PNG: 1096.png
+ORIG: Megan: Oh. This river is even bigger than it looked.
+Меган: У. Эта река больше, чем казалось.
+
+PNG: 1123.png
+ORIG: Megan: Maybe it _is_ big enough to fill the sea.
+Меган: Возможно, она _действительно_ способна переполнять море.
+
+PNG: 1130.png
+ORIG: Cueball (talking in his sleep): Our rope isn't strong enough.
+Парень (разговаривает во сне): У нас веревка недостаточно крепкая.
+
+PNG: 1131.png
+ORIG: Megan: What?
+ORIG: Cueball (talking in his sleep): Hold this or you'll fall.
+Меган: Что?
+Парень (разговаривает во сне): Хватайся, или упадешь.
+
+PNG: 1142.png
+ORIG: Cueball: When our river gets too big, it fills with stuff.
+ORIG: Wood and leaves and things from the people in the hills.
+Парень: В нашей реке во время разлива полно мусора.
+Всякие ветки, листья и вещи горцев.
+
+PNG: 1143.png
+ORIG: Cueball: This river doesn't look like that.
+Парень: С этой рекой не так.
+
+PNG: 1144.png
+ORIG: Megan: Maybe it only flows through empty places.
+Меган: Может, она протекает только через пустоши.
+
+PNG: 1146.png
+ORIG: Megan: If this river isn't what's making the sea rise, we need to get past it.
+ORIG: Either way, we continue upriver.
+Меган: Если прилив моря вызывает не эта река, нам нужно через нее перебраться.
+Так или иначе, идти нам вверх по течению.
+
+PNG: 1159.png
+ORIG: Megan: I wonder how high the water is now.
+Меган: Интересно, какой сейчас уровень воды.
+
+PNG: 1160.png
+ORIG: Cueball: I wonder if other people have noticed. It's been days.
+ORIG: Megan: Not a lot of us by the shore this time of year. A few kids, maybe.
+Парень: Интересно, заметил ли кто-нибудь еще. Прошло уже несколько дней.
+Меган: Мало кто из нас бывает на берегу в это время года. Детишки разве что.
+
+PNG: 1161.png
+ORIG: Megan: It'd have to rise a lot higher before any tents got wet.
+Меган: Чтобы намочить шатры, прилив должен быть гораздо сильнее.
+
+PNG: 1178.png
+ORIG: Cueball: This river flows from bigger hills than ours.
+Парень: Эта река течет с холмов повыше наших.
+
+PNG: 1179.png
+ORIG: Megan: If we don't reach a crossing soon, we'll be in them.
+Меган: Если мы скоро не найдем переправу, окажемся в этих холмах.
+
+PNG: 1184.png
+ORIG: Megan: I wonder if it's _possible_ to swim in.
+Меган: Интересно, _можно ли_ в ней плавать?
+
+PNG: 1212.png
+ORIG: Megan: You OK?
+Меган: Порядок?
+
+PNG: 1213.png
+ORIG: Cueball: Just thinking.
+Парень: Просто задумался.
+
+PNG: 1218.png
+ORIG: Megan: Should we follow the river through there?
+ORIG: Cueball: Hmm.
+Меган: Стоит ли нам дальше придерживаться реки?
+Парень: Хмм.
+
+PNG: 1219.png
+ORIG: Cueball: Let's see if we can go over those and rejoin it further up.
+Парень: Давай попробуем обойти вон там, а потом вернуться к реке.
+
+PNG: 1233.png
+ORIG: Megan: It must get windier up here.
+Меган: Ветер здесь, в холмах, наверное, будет сильнее.

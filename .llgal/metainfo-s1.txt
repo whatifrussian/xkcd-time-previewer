@@ -1,0 +1,212 @@
+SECTION: Scene 1
+TRELLO: https://trello.com/c/5nwYC4Nf/167-1190-time-scene-1
+NOTABENOID: http://notabenoid.com/book/45955/192141
+
+PNG: 52.png
+ORIG: Cueball: Later!
+ORIG: Megan: Bye!
+Парень: До скорого!
+Меган: Пока!
+
+PNG: 170.png
+ORIG: Megan: Wanna swim?
+ORIG: Cueball: Yeah.
+Меган: Поплаваем?
+Парень: Ага.
+
+PNG: 175.png
+ORIG: [Megan back on the beach, Cueball off screen.]
+ORIG: Megan: Pffthh
+ORIG: Megan: *cough*
+ORIG: Cueball: You OK?
+ORIG: Megan: Just got some in my mouth.
+[Меган снова на берегу, Парень за кадром.]
+Меган: Тьффу
+Меган: *кхе*
+Парень: Все нормально?
+Меган: Просто в рот попало.
+
+PNG: 320.png
+ORIG: [Building the mound]
+ORIG: Megan: Any idea where the river is now?
+ORIG: Cueball: Still pretty far out. It's actually retreated a little this week.
+[Сооружение насыпи.]
+Меган: Где сейчас река, не знаешь?
+Парень: Все еще довольно далеко. На этой неделе вода немного ушла, кстати.
+
+PNG: 408.png
+ORIG: Megan: I don't understand what the sea is doing.
+Меган: Не понимаю, что происходит с морем.
+
+PNG: 414.png
+ORIG: Cueball: I don't think we can build it much taller than this. It's been fun, though!
+Парень: Не думаю, что получится построить его еще выше. Впрочем, было весело!
+
+PNG: 486.png
+ORIG: [Cueball "sip"s the water.]
+ORIG: *SIP*
+[Парень пьёт воду с ладоней.]
+*CЁРБ*
+
+PNG: 487.png
+ORIG: [Cueball spits]
+ORIG: Cueball: Pfffth
+[Парень сплевывает.]
+Парень: Тьффу
+
+PNG: 488.png
+ORIG: Cueball: Pthuh!
+ORIG: Cueball: Yuck.
+Парень: Тьфу!
+Парень: Буэ.
+
+PNG: 490.png
+ORIG: Cueball: I've had worse.
+Парень: Бывало похуже.
+
+PNG: 531.png
+ORIG: [Cueball and Megan have stranded themselves on top of their new construction by building over their ladder.]
+ORIG: Cueball: Guess one of us should climb down.
+ORIG: Megan: Yeah.
+[Парень и Меган закрыли лестницу и не могут слезть с собственного сооружения.]
+Парень: Похоже, кому-то придется спуститься.
+Меган: Ага.
+
+PNG: 537.png
+ORIG: Megan: The sea is rising.
+Меган: Море поднимается.
+
+PNG: 538.png
+ORIG: Cueball: Yeah.
+Парень: Ага.
+
+PNG: 562.png
+ORIG: Cueball: Sea level rises and falls, right? It's changed before.
+ORIG: Megan: Not this fast.
+Парень: Уровень воды в море всегда колеблется, правда? Так и раньше бывало.
+Меган: Но не так быстро.
+
+PNG: 563.png
+ORIG: Cueball: The river hasn't even reached the sea yet.
+ORIG: Megan: The river is small
+ORIG: The sea is big.
+Парень: Река еще даже не добралась до моря.
+Меган: Река маленькая
+Море большое.
+
+PNG: 564.png
+ORIG: Cueball: How big?
+ORIG: Megan: I don't know.
+Парень: Насколько большое?
+Меган: Не знаю.
+
+PNG: 637.png
+ORIG: Megan: Does it rain on the sea?
+ORIG: Cueball: I don't know.
+Меган: Над морем бывают дожди?
+Парень: Не знаю.
+
+PNG: 638.png
+ORIG: Cueball: If it does, it seems like a waste.
+Парень: Если и бывают, то толку от них не много.
+
+PNG: 640.png
+ORIG: Cueball: It rains in the hills where the river comes from, right?
+ORIG: Megan: Sure.
+Парень: Дожди идут в холмах, там, где исток реки, верно?
+Меган: Конечно.
+
+PNG: 641.png
+ORIG: Cueball: Are there _other_ rivers?
+Парень: А _другие_ реки есть?
+
+PNG: 642.png
+ORIG: Megan: I don't know.
+Меган: Не знаю.
+
+PNG: 659.png
+ORIG: Cueball: There must be other rivers.
+ORIG: Otherwise the sea would dry up.
+Парень: Другие реки должны быть.
+Иначе море бы пересохло.
+
+PNG: 660.png
+ORIG: Megan: Maybe it's coming out of the ground.
+ORIG: Cueball: Does that happen?
+ORIG: Megan: I don't know.
+Меган: Может, вода идет из-под земли.
+Парень: А так бывает?
+Меган: Не знаю.
+
+PNG: 661.png
+ORIG: Megan: I don't know how the sea works.
+ORIG: Cueball: I don't know how _anything_ works.
+Меган: Я ничего не знаю про море.
+Парень: Я _вообще_ ничего не знаю.
+
+PNG: 832.png
+ORIG: Megan: I don't think it's going to stop.
+Меган: Кажется, оно и не думает останавливаться.
+
+PNG: 833.png
+ORIG: Cueball: The sea can't just make more of itself forever.
+ORIG: Megan: It can do whatever it wants. It's the sea.
+Парень: Не может же море увеличиваться вечно.
+Меган: Оно делает, что захочет. Это море.
+
+PNG: 834.png
+ORIG: Cueball: There must be a reason. There's a reason for everything.
+ORIG: Megan: Yeah.
+Парень: Должна быть причина. Причина есть у всего.
+Меган: Ага.
+
+PNG: 835.png
+ORIG: Megan: But it's not always a *good* reason.
+Меган: Но не факт, что она нам *понравится*.
+
+PNG: 838.png
+ORIG: Cueball: There must be other rivers. Maybe something is wrong with them.
+Парень: Должны быть другие реки. Может, что-то не так с ними.
+
+PNG: 855.png
+ORIG: Megan: I like our castle.
+Меган: Мне нравится наш замок.
+
+PNG: 856.png
+ORIG: Cueball: I think it's going to go away.
+Парень: По-моему, его размоет.
+
+PNG: 857.png
+ORIG: Megan: Yeah.
+Меган: Ага.
+
+PNG: 859.png
+ORIG: Megan: Do you think there are other rivers?
+ORIG: Cueball: *Something* is adding water to the sea.
+Меган: Так ты думаешь, другие реки есть?
+Парень: Должна же новая вода в море откуда-то браться.
+
+PNG: 860.png
+ORIG: Megan: Does it have to be water? Maybe something is adding more land somewhere. And it's making the sea overflow.
+Меган: А обязательно ли вода? Может, где-то появляется новая суша, и море из-за нее переполняется.
+
+PNG: 861.png
+ORIG: Cueball: Or maybe it's just raining somewhere. We have no idea what's out there.
+Парень: Или просто где-то идет дождь. Мы понятия не имеем, что там.
+
+PNG: 862.png
+ORIG: Megan: Yeah.
+Меган: Ага.
+
+PNG: 864.png
+ORIG: Megan: Want to find out?
+Меган: Хочешь, выясним?
+Парень: Да.
+
+PNG: 865.png
+ORIG: Megan: I'll get some bags.
+Меган: Я принесу сумки.
+
+PNG: 881.png
+ORIG: Megan: bye.
+Меган: пока.
