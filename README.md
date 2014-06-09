@@ -14,6 +14,10 @@ If everything’s alright, the script will generate lots of *.html files in the 
 
 Tell your web-server about this directory, and you’re done.
 
+## Bugs around images
+
+In my Firefox browser (version 29, Linux x86_64) on my notebook indexed png images viewed uncorrectly. Fix that works for me: change gfx.color_management.mode option in about:config from 2 to 0. See https://bugzilla.mozilla.org/show_bug.cgi?id=621474 .
+
 ## License
 
 Distributed under the same license as llgal: GNU General Public License V2 or later.
