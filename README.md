@@ -1,6 +1,8 @@
 ## What is this?
 
-Web previewer for [XKCD Time](http://xkcd.com/1190/) ([explanation](http://explainxkcd.com/1190)) translations by Russian What If? and XKCD translators [team](http://chtoes.li/about). The main goal is to provide a combined view of a given original image and original text with a corresponding translated image and translated text. Images without text are not included. Generated web pages also include links to corresponding frames on [geekwagon](http://geekwagon.net/projects/xkcd1190/) and links to translators’ discussion resources.
+Web previewer for [XKCD Time](http://xkcd.com/1190/) ([explanation](http://explainxkcd.com/1190)) translations by Russian What If? and XKCD translators [team](http://chtoes.li/about). The main goal is to provide a combined view of a given original image and original text with a corresponding translated image and translated text. Generated web pages also include links to corresponding frames on [geekwagon](http://geekwagon.net/projects/xkcd1190/) and links to translators’ discussion resources.
+
+Project also contains translated images.
 
 That’s just for translation process support and not for comfortable reading.
 
@@ -20,4 +22,8 @@ In my Firefox browser (version 29, Linux x86_64) on my notebook indexed png imag
 
 ## License
 
-Distributed under the same license as llgal: GNU General Public License V2 or later.
+Perl code distributed under the same license as well as llgal: GNU General Public License V2 or later.
+
+Images and related metainfo (metainfo-*.txt files) distributed under CC BY-NC 2.5 as well as sources from xkcd.com.
+
+CSS styles, HTML templates and other stuff in this repository is in public domain.
