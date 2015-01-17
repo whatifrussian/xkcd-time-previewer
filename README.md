@@ -10,11 +10,21 @@ That’s just for translation process support and not for comfortable reading.
 
 First install [llgal](http://home.gna.org/llgal), version 0.13.15. The version is significant because `.llgal/llgal` perl script is a patched version of the original script from the llgal-0.13.15 package.
 
-Clone this repo and put the images to `Scene 1`, `Scene 2 Part 1`, etc directories, then run `./regen.sh`.
+Clone this repo, then run `./regen.sh`.
 
 If everything’s alright, the script will generate lots of *.html files in the repo directory and lots of png thumbnails in `.llgal` subdirectory.
 
 Tell your web-server about this directory, and you’re done.
+
+## Add new section
+
+1. Fill metadata for new section in `.llgal/metadata-sXpY.txt` directory, where X and Y is section and part numbers.
+2. Add `metainfo_parse metadata-sXpY.txt` statement into file `.llgal/llgal`.
+3. Download source images to `orig/Scene X Part Y` directory from URLs like `http://geekwagon.net/projects/xkcd1190/data/frames/${N}.png`
+3. Put translated images to `Scene X path Y` directory.
+4. Regenerate captions with `./regen.sh gc` command.
+
+TODO: Exclude orig from regenerated captions.
 
 ## Bugs around images
 
