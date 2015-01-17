@@ -1752,17 +1752,16 @@ sub generate_slides {
 
 	if ($png_number ne '') {
 	    my $gw_page = "http://geekwagon.net/projects/xkcd1190/?frame=${png_number}" ;
-	    my $gw_direct = "http://geekwagon.net/projects/xkcd1190/data/frames/${png_number}.png" ;
 	    my $section = $pngs{$png_number}{section} // "";
-            my $trello = $sections{$section}{trello} // "";
-            my $notabenoid = $sections{$section}{notabenoid} // "";
+	    my $trello = $sections{$section}{trello} // "";
+	    my $notabenoid = $sections{$section}{notabenoid} // "";
+	    my $orig_image = "orig/${section}/${png_number}.png";
 
-	    $XKCD_TIME_IMG = "<img src=\"$gw_direct\" />" ;
+	    $XKCD_TIME_IMG = "<img src=\"$orig_image\" />" ;
 	    $XKCD_TIME_LINKS = "
-	        <a href=\"$gw_page\">On geekwagon</a>
-	        (<a href=\"$gw_direct\">direct to image</a>)<br/>
-		Discuss on <a href=\"$trello\">Trello</a> or
-                <a href=\"$notabenoid\">Notabenoid</a>" ;
+            <a href=\"$gw_page\">The slide on geekwagon</a><br/>
+            Discuss on <a href=\"$trello\">Trello</a> or
+            <a href=\"$notabenoid\">Notabenoid</a>" ;
 
 	    $XKCD_TIME_TEXT_ORIG = $pngs{$png_number}{orig} // "";
 	    $XKCD_TIME_TEXT_TRAN = $pngs{$png_number}{tran} // "";
