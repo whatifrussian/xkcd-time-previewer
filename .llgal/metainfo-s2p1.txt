@@ -1,6 +1,6 @@
 SECTION: Scene 2 Part 1
 TRELLO: https://trello.com/c/NtUlQAHe/223-time-scene-2-part-1
-NOTABENOID: http://notabenoid.com/book/45955/192145
+NOTABENOID: http://notabenoid.org/book/45955/192145
 
 PNG: 985.png
 ORIG: [Still walking.]
