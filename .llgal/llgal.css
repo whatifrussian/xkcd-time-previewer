@@ -39,14 +39,19 @@ img.image-link {
   text-align: center;
 }
 
-.left {
+.transcript {
   text-align: left;
-  width: 20em;
+  margin-left: 50px;
+  width: 450px;
 }
 
 .center table {
   margin-left: auto;
   margin-right: auto;
+}
+
+table.slide td {
+  vertical-align: top;
 }
 
 /* Index table */
