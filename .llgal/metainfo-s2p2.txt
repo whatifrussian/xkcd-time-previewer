@@ -1,0 +1,265 @@
+SECTION: Scene 2 Part 2
+TRELLO: https://trello.com/c/sGDgWoax/224-time-scene-2-part-2
+NOTABENOID: http://notabenoid.org/book/45955/192147
+
+PNG: 1261.png
+ORIG: Cueball: OOF.
+ORIG: Megan: These are bigger than they looked.
+Парень: Уф.
+Меган: А они выше, чем казалось.
+
+PNG: 1339.png
+ORIG: Megan: Neat.
+Меган: Круто.
+
+PNG: 1341.png
+ORIG: Megan: *yawn*
+Меган: *зевок*
+
+PNG: 1343.png
+ORIG: Megan: The river isn't much farther...
+Меган: Река не так и далеко…
+
+PNG: 1378.png
+ORIG: Cueball: Berries?
+ORIG: Megan: Ooh, Thanks!
+Парень: Ягод?
+Меган: О-о, спасибо!
+
+PNG: 1380.png
+ORIG: Cueball: There are people here.
+ORIG: Or were.
+ORIG: I found some sort of campsite.
+Парень: Здесь есть люди.
+Или были.
+Я нашел что-то вроде лагеря.
+
+PNG: 1381.png
+ORIG: Megan: Recent?
+ORIG: Cueball: Looked like it'd been empty for a while.
+Меган: Лагерь свежий?
+Парень: Судя по виду, какое-то время пустует.
+
+PNG: 1383.png
+ORIG: Megan: I'm thirsty. Let's get to the river.
+ORIG: Cueball: Yeah.
+Меган: Пить хочу. Давай спустимся к реке.
+Парень: Давай.
+
+PNG: 1386.png
+ORIG: Megan: They leave anything good behind?
+ORIG: Cueball: Just some wood. Not enough to build a raft.
+Меган: Они оставили что-нибудь полезное?
+Парень: Только немного дров. На плот не хватит.
+
+PNG: 1407.png
+ORIG: [Again at the river.]
+ORIG: Cueball: This place is beautiful.
+ORIG: Megan: Yeah.
+[Снова у реки.]
+Парень: Красиво здесь.
+Меган: Ага.
+
+PNG: 1408.png
+ORIG: Megan: I am surprised we haven't been seen by any people yet.
+Меган: Странно, что мы до сих пор никого не встретили.
+
+PNG: 1409.png
+ORIG: Megan: If it's this empty, _we_ should live here.
+Меган: Если никого нет, нужно _нам_ здесь жить.
+
+PNG: 1412.png
+ORIG: Cueball: Did you notice the sea tasting _*better*_?
+ORIG: Megan: ...No?
+Парень: Ты заметила, морская вода стала _*вкуснее*_?
+Меган: …Неа.
+
+PNG: 1413.png
+ORIG: Megan: I don't know.
+ORIG: I try _*not*_ to taste seawater.
+ORIG: Why?
+Меган: Даже не знаю.
+Я стараюсь _*не*_ пробовать морскую воду на вкус.
+А что?
+
+PNG: 1414.png
+ORIG: Cueball: I was thinking.
+ORIG: If a river is putting too much water in the sea, the sea should get fresher.
+Парень: Да я тут думал.
+Если в море попадает слишком много речной воды, оно должно становиться преснее.
+
+PNG: 1415.png
+ORIG: Cueball: I tasted the water back before we left.
+ORIG: Megan: Ugh. And?
+ORIG: Cueball: I thought it was a *little* fresher, but maybe it was just me.
+Парень: Я пробовал воду на вкус перед тем, как мы ушли.
+Меган: Бе-е. И как?
+Парень: Вроде она была *капельку* преснее. Может, мне показалось.
+
+PNG: 1416.png
+ORIG: Megan: Probably. I mean, how high was the sea then?
+ORIG: The extra water couldn't have been more than a tiny part of it.
+Меган: Наверняка. В смысле, море тогда поднялось еще не сильно.
+Лишняя вода не могла составлять больше крошечной части.
+
+PNG: 1417.png
+ORIG: Cueball: Yeah.
+Парень: Ага.
+
+PNG: 1419.png
+ORIG: Cueball: Well, we may as well continue.
+ORIG: Either we'll figure out the sea, or we'll keep finding beautiful places.
+Парень: Что ж, тогда можно идти дальше.
+Мы или выясним, что там с морем, или побываем в других красивых местах.
+
+PNG: 1420.png
+ORIG: Megan: That sounds fun.
+Меган: Звучит весело.
+
+PNG: 1436.png
+ORIG: Cueball: Are you OK?
+Парень: Все хорошо?
+
+PNG: 1437.png
+ORIG: Megan: I found a-
+Меган: Я нашла…
+
+PNG: 1438.png
+ORIG: Frog: RIBBIT
+Лягушка: КВА
+
+PNG: 1476.png
+ORIG: Megan: Is this like the one you found?
+ORIG: Cueball: Yeah.
+Меган: Ты такой же раньше находил?
+Парень: Ага.
+
+PNG: 1495.png
+ORIG: Megan: Oof.
+Меган: Уф.
+
+PNG: 1497.png
+ORIG: Megan: OK.
+Меган: Нормально.
+
+PNG: 1502.png
+ORIG: Megan: WOW.
+Меган: УХ ТЫ.
+
+PNG: 1513.png
+ORIG: Cueball: There are markings on the trunk.
+ORIG: Megan: Oh. Yeah.
+Парень: На стволе какие-то отметки.
+Меган: О. Ага.
+
+PNG: 1514.png
+ORIG: Megan: I wonder what they mean.
+Меган: Интересно, что они означают.
+
+PNG: 1525.png
+ORIG: Megan: I wonder if it's supposed to be like that.
+Меган: Интересно, вот это так и должно быть?
+
+PNG: 1526.png
+ORIG: Cueball: It's a pretty big tree.
+ORIG: It probably knows what it's doing.
+Парень: Это взрослое дерево.
+Оно наверняка знает, что делает.
+
+PNG: 1557.png
+ORIG: Cueball: Do you think it's ok to take some?
+Парень: Как думаешь, ничего, если мы немного возьмем?
+
+PNG: 1558.png
+ORIG: Megan: Yeah.
+ORIG: It doesn't look like anyone's been here for a while.
+Меган: Ничего.
+Похоже, здесь давно никого не было.
+
+PNG: 1589.png
+ORIG: Cueball: This looks like the stuff that floats down our river.
+Парень: Похоже на то, что по нашей реке плавает.
+
+PNG: 1590.png
+ORIG: Cueball: I wonder if these people are related to the people in the hills.
+ORIG: Megan: Maybe.
+Парень: Интересно, связаны ли эти люди как-нибудь с горцами.
+Меган: Возможно.
+
+PNG: 1592.png
+ORIG: Megan: But the markings on that tree didn't look familiar.
+ORIG: Cueball: Yeah.
+Меган: Хотя надписи на том дереве выглядели незнакомо.
+Парень: Ага.
+
+PNG: 1594.png
+ORIG: Megan: We could cross the river now.
+ORIG: We've found more than enough wood for a raft.
+Меган: Теперь мы могли бы пересечь реку.
+У нас вполне хватит древесины на плот.
+
+PNG: 1595.png
+ORIG: Cueball: Yeah.
+Парень: Ага.
+
+PNG: 1598.png
+ORIG: Cueball: We're almost in the mountains.
+Парень: Мы почти в горах.
+
+PNG: 1600.png
+ORIG: Cueball: We walked along the sea for days and we didn't learn anything.
+ORIG: Up here we're learning lots.
+Парень: Мы днями шли по берегу моря и ничего не узнали.
+А наверху мы узнаем кучу всего.
+
+PNG: 1601.png
+ORIG: Megan: We haven't learned why the sea rose.
+ORIG: Cueball: Maybe we were never going to.
+Меган: Мы так и не поняли, почему море поднялось.
+Парень: Может, мы и не могли этого понять.
+
+PNG: 1602.png
+ORIG: Cueball: There's food and water here.
+ORIG: I don't want to go all the way back down, walk along the sea for a few more days, then have to turn around.
+Парень: Здесь есть еда и вода.
+Неохота проделать весь путь обратно вниз, потом еще несколько дней идти вдоль моря, чтобы в конце концов свернуть назад.
+
+PNG: 1603.png
+ORIG: Cueball: Maybe the sea is too big for us to understand.
+ORIG: We can't answer every question.
+Парень: Может быть, море просто слишком большое, чтоб мы могли его понять.
+На все вопросы не ответить.
+
+PNG: 1604.png
+ORIG: Megan: No, but I think we can answer _*any*_ question.
+Меган: Да. И все же, на _*любой*_ вопрос ответить можно.
+
+PNG: 1605.png
+ORIG: Megan: Still, I agree. No need to turn around yet.
+ORIG: Cueball: Yeah.
+Меган: Хотя, соглашусь. Идти обратно рано.
+Парень: Ага.
+
+PNG: 1606.png
+ORIG: Megan: And those mountains _do_ look neat.
+ORIG: Cueball: Yeah!
+Меган: К тому же горы эти выглядят _здорово_.
+Парень: Ага!
+
+PNG: 1608.png
+ORIG: Megan: Before we go, we should stock up.
+ORIG: Cueball: I'll get more water.
+Меган: Перед уходом нужно бы запастись.
+Парень: Принесу еще воды.
+
+PNG: 1617.png
+ORIG: Megan: Hi!
+Меган: Привет!
+
+PNG: 1622.png
+ORIG: Megan: It's ok! I won't eat you.
+Меган: Не бойся! Не съем я тебя.
+
+PNG: 1625.png
+ORIG: Megan: Want some food?
+Меган: Поесть хочешь?
