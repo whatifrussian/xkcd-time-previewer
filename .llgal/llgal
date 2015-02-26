@@ -358,8 +358,8 @@ sub create_file_entry {
     my $real_filename = "$self->{destination_dir}$filename" ;
 
     # check file
-    return undef
-	if check_file ($real_filename) < 0 ;
+    #return undef
+    #if check_file ($real_filename) < 0 ;
 
     # set the type
     $entry->{type} = $type ;
@@ -454,8 +454,10 @@ sub create_file_entry {
 
 	# check dimensions validity
 	if (not defined $x or not defined $y) {
-	    $messages->warning ("Bad image file '$filename', cannot retrieve its dimensions, skipping it.") ;
-	    return undef ;
+	    #$messages->warning ("Bad image file '$filename', cannot retrieve its dimensions, skipping it.") ;
+	    #return undef ;
+	    my $x = 0 ;
+	    my $y = 0 ;
 	}
 
 	$entry->{xdim} = $x ;
@@ -631,8 +633,10 @@ sub fill_file_entry {
 
 	# check thumbnail validity
 	if (not defined $tx or not defined $ty) {
-	    $messages->warning ("Bad thumbnail file '$real_thumb_filename', cannot retrieve its dimensions, skipping this entry.") ;
-	    return undef ;
+	    #$messages->warning ("Bad thumbnail file '$real_thumb_filename', cannot retrieve its dimensions, skipping this entry.") ;
+	    #return undef ;
+	    my $tx = 0 ;
+	    my $ty = 0 ;
 	}
 
 	# store values
