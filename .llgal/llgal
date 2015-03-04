@@ -1653,8 +1653,12 @@ sub metainfo_parse {
     my $sections_ref = shift;
     my $pngs_ref = shift;
 
-    open FILE, "<", "/var/www/xkcd-time/.llgal/$filename"
-        or die "cannot open < $filename: $!";
+    use Cwd 'abs_path';
+    use File::Basename 'dirname';
+    my $scriptdir = dirname(abs_path($0));
+
+    open FILE, "<", "$scriptdir/$filename"
+        or die "cannot open < $scriptdir/$filename: $!";
 
     my $section_id = '';
     my $png_id = '';
