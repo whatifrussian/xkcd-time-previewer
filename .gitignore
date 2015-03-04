@@ -1,3 +1,4 @@
 slide_*.html
 index.html
 thumb_*.png
+*.sw[a-z]
