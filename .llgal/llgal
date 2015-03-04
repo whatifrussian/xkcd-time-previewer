@@ -1732,6 +1732,7 @@ sub generate_slides {
     metainfo_parse "metainfo-s1.txt", \%sections, \%pngs;
     metainfo_parse "metainfo-s2p1.txt", \%sections, \%pngs;
     metainfo_parse "metainfo-s2p2.txt", \%sections, \%pngs;
+    metainfo_parse "metainfo-s2p3.txt", \%sections, \%pngs;
 
     for (my $i = 0; $i < @entries; $i++) {
 	my $entry = $entries[$i] ;

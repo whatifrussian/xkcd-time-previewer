@@ -1,0 +1,268 @@
+SECTION: Scene 2 Part 3
+TRELLO: https://trello.com/c/Kd3NmCz9/290-time-scene-2-part-3
+NOTABENOID: http://notabenoid.org/book/45955/192152
+
+PNG: 1669.png
+ORIG: Cueball: I wonder where the people who take care of these plants are.
+Парень: Интересно, где те, кто ухаживает за этими растениями?
+
+PNG: 1687.png
+ORIG: Megan: What are you doing?
+Меган: Что ты делаешь?
+
+PNG: 1688.png
+ORIG: Cueball: Making shapes with my shadow!
+Парень: Театр теней!
+
+PNG: 1689.png
+ORIG: Megan: When I stare down at mine for long enough while I walk, it starts to look really weird.
+ORIG: Cueball: Yeah.
+Меган: Когда я долго иду и засматриваюсь на тень, она начинает казаться какой-то странной.
+Парень: Ага.
+
+PNG: 1692.png
+ORIG: Megan: Still, it's better than when we were following the sea,
+ORIG: walking straight into the sun all morning.
+ORIG: Cueball: Yeah.
+Меган: Все же это лучше, чем когда мы шли вдоль моря прямо на солнце все утро.
+Парень: Ага.
+
+PNG: 1713.png
+ORIG: Cueball: It's prettier right by the river, but it's easier to walk up here.
+ORIG: Megan: Yeah.
+Парень: Прямо у реки красивее, но здесь идти легче.
+Меган: Ага.
+
+PNG: 1714.png
+ORIG: Megan: Well, it all gets greener further up.
+Меган: Ну, там, сверху, зеленее.
+
+PNG: 1718.png
+ORIG: Cueball: The mountains are farther away than they looked.
+Парень: А горы дальше, чем казались.
+
+PNG: 1739.png
+ORIG: Cueball: Snake!
+Парень: Змея!
+
+PNG: 1742.png
+ORIG: Megan: *Are you ok?*
+Меган: *Все в порядке?*
+
+PNG: 1743.png
+ORIG: Cueball: I think so-
+Парень: Да вроде как…
+
+PNG: 1744.png
+ORIG: Megan: Did it bite you?
+ORIG: Cueball: No.
+Меган: Она тебя укусила?
+Парень: Нет.
+
+PNG: 1745.png
+ORIG: Megan: Could you see what kind it was?
+Меган: Ты разглядел, какая она была?
+
+PNG: 1746.png
+ORIG: Cueball: Brownish and shiny.
+ORIG: Kind of blotchy.
+Парень: Коричневая и блестящая.
+В пятнышках таких.
+
+PNG: 1747.png
+ORIG: Megan: Did it have little spikes over it's eyes?
+ORIG: Cueball: No, not one of those.
+Меган: У нее были шипики над глазами?
+Парень: Нет, эта была не из тех.
+
+PNG: 1748.png
+ORIG: Cueball: It was weird.
+ORIG: Stubby at both ends.
+ORIG: Like it forgot to have a head and tail.
+Парень: Она была странная.
+С обеих сторон как обрубленная.
+Словно забыла дома и хвост и голову.
+
+PNG: 1749.png
+ORIG: Megan: Hmm...
+Меган: Хмм…
+
+PNG: 1750.png
+ORIG: Megan: No idea.
+ORIG: But let's go around. And watch your feet.
+ORIG: Cueball: Ok.
+Меган: Без понятия.
+Но давай таки обойдем. И под ноги смотри.
+Парень: Ладно.
+
+PNG: 1758.png
+ORIG: Megan: No snakes.
+Меган: Змей нет.
+
+PNG: 1795.png
+ORIG: Megan: I think I can almost see the sea from here.
+Меган: По-моему, отсюда почти видно море.
+
+PNG: 1797.png
+ORIG: Cueball: I don't know.
+ORIG: It's hard to tell what's land and what's sky.
+ORIG: Megan: Yeah.
+Парень: Даже не знаю.
+Сложно сказать, где земля, а где небо.
+Меган: Ага.
+
+PNG: 1821.png
+ORIG: Megan: It's cooler up here.
+Меган: Здесь наверху прохладнее.
+
+PNG: 1826.png
+ORIG: Cueball: Are you hearing quiet chirps?
+Парень: Слышишь тихое чириканье?
+
+PNG: 1828.png
+ORIG: Megan: No.
+ORIG: Cueball: I don't hear it now either.
+Меган: Нет.
+Парень: Теперь и я не слышу.
+
+PNG: 1830.png
+ORIG: Megan: I heard chirps from the night sky once.
+Меган: Я как-то слышала чириканье в ночном небе.
+
+PNG: 1831.png
+ORIG: Megan: I was looking at the stars one night and I heard peeping.
+ORIG: It was very quiet.
+ORIG: Just a single chirp now and then.
+ORIG: Cueball: Did you see anything?
+Меган: Однажды ночью я смотрела на звезды и услышала писк.
+Очень тихий.
+Такое редкое чириканье.
+Парень: А видела что-нибудь?
+
+PNG: 1832.png
+ORIG: Megan: I thought a few stars flicker.
+ORIG: Nothing else.
+ORIG: Cueball: Hmm.
+Меган: Мне показалось, несколько звезд мигнули.
+И все.
+Парень: Хмм.
+
+PNG: 1837.png
+ORIG: *chirp*
+*чирик*
+
+PNG: 1838.png
+ORIG: *chirp*
+*чирик*
+
+PNG: 1839.png
+ORIG: Cueball: It's coming from up ahead.
+Парень: Откуда-то сверху.
+
+PNG: 1840.png
+ORIG: *chirp*
+*чирик*
+
+PNG: 1844.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1845.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1847.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1848.png
+ORIG: Megan: Chirp
+ORIG: Bird in nest: Chirp
+Меган: Чирик.
+Птица в гнезде: Чирик.
+
+PNG: 1849.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1850.png
+ORIG: Megan: Chirp
+Меган: Чирик.
+
+PNG: 1852.png
+ORIG: Megan: Why is it doing that?
+ORIG: Bird in nest: Chirp
+ORIG: Cueball: I don't know.
+Меган: Зачем она чирикает?
+Птица в гнезде: Чирик.
+Парень: Не знаю.
+
+PNG: 1853.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1854.png
+ORIG: Megan: I guess it's angry that we're here.
+Меган: Наверное, ей не нравится, что мы здесь.
+
+PNG: 1855.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1857.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1859.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1860.png
+ORIG: Bird in nest: Chirp
+Птица в гнезде: Чирик.
+
+PNG: 1862.png
+ORIG: Megan: What's it doing?
+ORIG: Cueball: I think it gave it something.
+Меган: Что она делает?
+Парень: По-моему, одна что-то другой дала.
+
+PNG: 1863.png
+ORIG: Megan: Oh! Food!
+ORIG: I bet the loud one is a baby.
+ORIG: The larger bird: Chirp
+Меган: А, еда!
+Наверняка та что кричит — птенец.
+Птица побольше: Чирик.
+
+PNG: 1864.png
+ORIG: Both birds: Chirp
+Обе птицы: Чирик.
+
+PNG: 1865.png
+ORIG: Cueball: Now they're *both* loud.
+Парень: Теперь они *обе* кричат.
+
+PNG: 1866.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1867.png
+ORIG: Megan: It's ok.
+ORIG: We are not going to eat your baby.
+ORIG: Cueball: I don't think it believes you.
+ORIG: Both birds: Chirp
+Меган: Все в порядке.
+Мы не съедим твоего птенца.
+Парень: Не думаю, что она тебе верит.
+Обе птицы: Чирик.
+
+PNG: 1868.png
+ORIG: Megan: That's ok. It's just protecting it's baby.
+ORIG: Bird in nest: Chirp
+Меган: Это ничего. Она просто защищает своего ребенка.
+Птица в гнезде: Чирик.
+
+PNG: 1869.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
