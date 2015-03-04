@@ -258,7 +258,7 @@ ORIG: Megan: Hi!
 
 PNG: 1622.png
 ORIG: Megan: It's ok! I won't eat you.
-Меган: Не бойся! Не съем я тебя.
+Меган: Не бойся! Я тебя не съем.
 
 PNG: 1625.png
 ORIG: Megan: Want some food?
