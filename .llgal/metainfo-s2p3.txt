@@ -35,7 +35,7 @@ ORIG: Megan: Yeah.
 
 PNG: 1714.png
 ORIG: Megan: Well, it all gets greener further up.
-Меган: Ну, там, сверху, зеленее.
+Меган: Ну, там сверху зеленее.
 
 PNG: 1718.png
 ORIG: Cueball: The mountains are farther away than they looked.
@@ -232,7 +232,7 @@ ORIG: Megan: Oh! Food!
 ORIG: I bet the loud one is a baby.
 ORIG: The larger bird: Chirp
 Меган: А, еда!
-Наверняка та что кричит — птенец.
+Наверняка та, что кричит, — птенец.
 Птица побольше: Чирик.
 
 PNG: 1864.png
