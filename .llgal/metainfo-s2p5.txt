@@ -1,0 +1,299 @@
+SECTION: Scene 2 Part 5
+TRELLO: https://trello.com/c/Bll1Eqd3/292-time-scene-2-part-5
+NOTABENOID: http://notabenoid.org/book/45955/192162
+
+PNG:
+ORIG: Cueball: -LOOK OUT!
+Парень: ОСТОРОЖНО!
+
+PNG:
+ORIG: [Megan grabs a branch laying on the ground.]
+ORIG: Megan: Hey!
+ORIG: Hey!
+ORIG: Over here!
+<<<<<
+[Меган подбирает ветку, лежавшую на земле.]
+Меган: Эй!
+Эй!
+Сюда!
+=====
+[Меган подбирает с земли ветку.]
+Меган: Эй!
+Эй!
+Я здесь!
+>>>>>
+
+PNG:
+ORIG: [Megan hits the cougar.]
+ORIG: Meagn: THAWAP!
+ORIG: Cougar: SNARL!
+[Меган ударяет пуму.]
+Меган: ФФТУМ!
+Пума: РРРРР!
+
+PNG:
+ORIG: Cougar: HISS
+Пума: ШШШШШ
+
+PNG:
+ORIG: Megan: Are you ok?
+ORIG: Cueball: I, um...
+ORIG: I think so?
+<<<<<
+Меган: Ты в порядке?
+Парень: Эм…
+Наверное?
+=====
+Меган: Ты в порядке?
+Парень: Эм…
+Вроде…
+>>>>>
+
+PNG:
+ORIG: Megan: It didn't bite you?
+ORIG: Cueball: It had claws. I saw them.
+ORIG: Megan: But you're not bleeding?
+<<<<<
+Меган: Она тебя не укусила?
+Парень: У неё были когти. Я видел.
+Меган: Но ты не поранился?
+=====
+Меган: Она тебя не укусила?
+Парень: У неё были когти. Я видел.
+Меган: Но крови нет?
+>>>>>
+
+PNG:
+ORIG: Cueball: No?
+Парень: Нет?
+
+PNG:
+ORIG: Cueball: I think it grabbed my bag by mistake.
+Парень: Похоже, она по ошибке утащила мой мешок.
+
+PNG:
+ORIG: Megan: That was lucky.
+ORIG: Cueball: I was lucky that...
+ORIG: ...You chased it away. Did you hit it?
+ORIG: I couldn't really see.
+Меган: Повезло.
+Парень: Мне повезло, что…
+…ты прогнала её. Ты её ударила?
+Я не увидел.
+
+PNG:
+ORIG: Megan: Yeah.
+Меган: Ага.
+
+PNG:
+ORIG: Cueball: That was brave.
+Парень: Смело.
+
+PNG:
+ORIG: Megan: You grabbed me. If you hadn't pulled me down and-
+ORIG: Cueball: Are you ok?
+<<<<<
+Меган: Ты схватил меня. Если б ты не сбил меня с ног, и…
+Парень: С _тобой_ всё в порядке?
+=====
+Меган: Ты оттолкнул меня. Если б ты не сбил меня с ног, и…
+Парень: _Ты_ в порядке?
+>>>>>
+
+PNG:
+ORIG: Megan: Yeah, I'm fine.
+Меган: Ага.
+
+PNG:
+ORIG: Cueball: No, you're not.
+<<<<<
+Парень: Нет, не всё в порядке.
+=====
+Парень: А вот и нет.
+>>>>>
+
+PNG:
+ORIG: Megan: What?
+ORIG: Cueball: You hurt your leg.
+<<<<<
+Меган: Что?
+Парень: Ты ушибла ногу.
+=====
+Меган: Что?
+Парень: У тебя нога поранена.
+>>>>>
+
+PNG:
+ORIG: Megan: No, I just banged it on something when -
+ORIG: Cueball: You're bleeding.
+Меган: Нет, я просто ударилась ей обо что-то, когда…
+Парень: У тебя кровь идёт.
+
+PNG:
+ORIG: Megan: What? No I-
+ORIG: Oh.
+Меган: Что? Нет, я же…
+Ой.
+
+PNG:
+ORIG: Megan: Claw marks. I didn't see it hit me.
+ORIG: Cueball: It moved fast.
+<<<<<
+Меган: Следы когтей. Я не видела, как она попала по мне.
+Парень: Она быстрая.
+=====
+Меган: Следы когтей. Я не заметила удара.
+Парень: Она быстрая.
+>>>>>
+
+PNG:
+ORIG: [Cueball searches through his bag and talks to himself quietly.]
+ORIG: Cueball: Where is it...
+ORIG: I thought I had...
+[Парень обыскивает свою сумку и тихо говорит сам с собой.]
+Парень: Где же она…
+Была же вроде…
+
+PNG:
+ORIG: Megan: This is a surprising amount of blood.
+Меган: Удивительно много крови.
+
+PNG:
+ORIG: Cueball: Keep your hand tight over where it's coming out.
+ORIG: I'm looking for something to wrap around it.
+Парень: Туго сжимай рукой у места, откуда она течёт.
+Ищу что-нибудь, чем можно подвязать.
+
+PNG:
+ORIG: Cueball: I can just tear the bag.
+ORIG: It's torn already. Or-
+ORIG: Megan: Oh, wait.
+Парень: Можно просто порвать мешок.
+А он и так порван. Или…
+Меган: Ой, подожди.
+
+PNG:
+ORIG: Megan: Sorry for ruining your flag.
+Меган: Прости, что испортила твой флаг.
+
+PNG:
+ORIG: Cueball: It's OK.
+ORIG: After all, I brought it for you.
+Парень: Всё в порядке.
+В конце концов, я для тебя его принёс.
+
+PNG:
+ORIG: Megan: Thank you.
+Меган: Спасибо тебе.
+
+PNG:
+ORIG: Megan: I like it so much I'm coloring it a beautiful red.
+<<<<<
+Меган: Мне так нравится, я окрашиваю его в красивый красный цвет.
+=====
+Меган: Он мне так нравится, что я покрашу его в красивый красный.
+>>>>>
+
+PNG:
+ORIG: Megan: It's going to be a long walk home.
+Меган: Дорога домой будет долгой.
+
+PNG:
+ORIG: Cueball: Can you even walk? How are you feeling?
+Парень: Ты вообще можешь ходить? Как себя чувствуешь?
+
+PNG:
+ORIG: Megan: Thirsty.
+Меган: Пить хочу.
+
+PNG:
+ORIG: Cueball: Does it hurt?
+Парень: Больно?
+
+PNG:
+ORIG: Megan: It didn't at first.
+ORIG: Now it does.
+Меган: Сначала не было.
+Теперь да.
+
+PNG:
+ORIG: Cueball: I think you're right.
+ORIG: There's some kind of structure on the mountain.
+<<<<<
+Парень: Думаю, ты в порядке.
+На горе какая-то постройка.
+=====
+Парень: Думаю, ты права.
+Там на горе какое-то сооружение.
+>>>>>
+
+PNG:
+ORIG: Megan: I think I can walk OK.
+<<<<<
+Меган: Думаю, смогу нормально идти.
+=====
+Меган: Кажется, идти я смогу нормально.
+>>>>>
+
+PNG:
+ORIG: Megan: It hurts, but it doesn't really hurt more when I lean on it.
+ORIG: Cueball: That's good, at least.
+<<<<<
+Меган: Нога болит, но если на нее опереться, больнее не становится.
+Парень: Это уже хорошо.
+=====
+Меган: Больно. Но когда опираюсь на неё, не сильно больнее.
+Парень: Это хорошо. По меньшей мере.
+>>>>>
+
+PNG:
+ORIG: Cueball: But it's a pretty bad cut.
+ORIG: It could get a lot worse in the time it takes to walk home.
+Парень: Но порез серьезный.
+Пока доберемся до дому, может стать хуже.
+
+PNG:
+ORIG: Cueball: We need help.
+Парень: Нам нужна помощь.
+
+PNG:
+ORIG: Megan: Do you think we should keep going up?
+Меган: Думаешь, стоит продолжать подъем?
+
+PNG:
+ORIG: Cueball: We can't be more than a day or so from the top.
+ORIG: There may be people there.
+Парень: До вершины наверняка не больше дня пути.
+Там могут быть люди.
+
+PNG:
+ORIG: Megan: Like the people in the hills?
+ORIG: Cueball: We're a long way from there.
+Меган: Вроде горцев?
+Парень: Оттуда мы далеко ушли.
+
+PNG:
+ORIG: Cueball: We don't know what's past the mountains. If we go up a little more, we'll be able to see.
+ORIG: There could be villages.
+Парень: Мы не знаем, что за горами. Если забраться повыше, увидим.
+Там могут оказаться поселения.
+
+PNG:
+ORIG: Megan: And if there's no one there, we wont be much farther from home than we are now.
+ORIG: Cueball: Yeah.
+Меган: А если там и нет никого, мы будем не намного дальше от дома, чем сейчас.
+Парень: Ага.
+
+PNG:
+ORIG: Megan: OK.
+Меган: Хорошо.
+
+PNG:
+ORIG: Cueball: I'll carry everything in your bag. Mine's torn, anyway.
+Парень: Я понесу все в твоем мешке. Мой-то порван.
+
+PNG:
+ORIG: Cueball: You tell me if your leg starts hurting too much.
+ORIG: Megan: OK.
+Парень: Если заболит слишком сильно, говори.
+Меган: Хорошо.

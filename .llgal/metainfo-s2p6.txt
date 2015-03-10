@@ -1,0 +1,141 @@
+SECTION: Scene 2 Part 6
+TRELLO: https://trello.com/c/So9AcDRO/293-time-scene-2-part-6
+NOTABENOID: http://notabenoid.org/book/45955/192165
+
+PNG:
+ORIG: Cueball: I'll step in and help you over.
+Парень: Я встану в воду и помогу тебе перебраться.
+
+PNG:
+ORIG: Megan: OW.
+Меган: АЙ.
+
+PNG:
+ORIG: Megan: It's definitely colder up here.
+Меган: Здесь заметно прохладнее.
+
+PNG:
+ORIG: Cueball: How are you feeling?
+ORIG: Megan: Not great.
+Парень: Как самочувствие?
+Меган: Не шикарное.
+
+PNG:
+ORIG: Megan: That thing is still out there.
+ORIG: Megan: Probably others, too.
+ORIG: Cueball: Yeah.
+Меган: А ведь эта зверюга где-то здесь бегает.
+Меган: Наверное, есть и другие.
+Парень: Ага.
+
+PNG:
+ORIG: [The sky gets darker.]
+ORIG: Megan: We need to sleep.
+ORIG: Cueball: Yeah.
+[Становится темнее.]
+Меган: Нужно поспать.
+Парень: Ага.
+
+PNG:
+ORIG: Megan: It didn't seem scary before
+ORIG: pausing to sleep wherever we were.
+Меган: Раньше было не страшно.
+Вот так устроить привал где угодно.
+
+PNG:
+ORIG: Cueball: I'll stay awake while you rest.
+ORIG: Megan: I can stay awake.
+Парень: Я подежурю, а ты отдыхай.
+Меган: Я могу подежурить.
+
+PNG:
+ORIG: Cueball: No, you need to rest. I'll wake you if I get tired.
+Парень: Нет, тебе нужен отдых. Если устану, разбужу.
+
+PNG:
+ORIG: Megan: Or if something is trying to eat you, and you need me to hit it.
+Меган: Или если тебя кто-нибудь будет есть, и понадоблюсь я и моя палка.
+
+PNG:
+ORIG: Cueball: Hey.
+Парень: Эй.
+
+PNG:
+ORIG: Cueball: Wake up.
+ORIG: Megan: Yeah?
+Парень: Проснись.
+Меган: Что?
+
+PNG:
+ORIG: Cueball: I stayed awake as long as I could. Can you take over?
+ORIG: Megan: Oh, sure.
+Парень: Я не спал сколько мог. Подменишь?
+Меган: А, конечно.
+
+PNG:
+ORIG: Megan: All quiet?
+Меган: Все спокойно?
+
+PNG:
+ORIG: Cueball: Yeah. How are you feeling?
+ORIG: Megan: Still hurts.
+Парень: Ага. Как самочувствие?
+Меган: До сих пор болит.
+
+PNG:
+ORIG: Megan: But I got some rest. Your turn now.
+Меган: Но я отдохнула. Теперь твоя очередь.
+
+PNG:
+ORIG: [A sound from above of them.]
+ORIG: Chirp
+[Звук сверху.]
+Чирик
+
+PNG:
+ORIG: [Again that sound.]
+ORIG: Chirp
+[Снова этот звук.]
+Чирик
+
+PNG:
+ORIG: Megan: Do you hear that?
+Меган: Слышишь?
+
+PNG:
+ORIG: Chirp
+ORIG: Cueball: Yeah.
+Чирик
+Парень: Ага.
+
+PNG:
+ORIG: Cueball: I wonder what they're doing.
+Парень: Интересно, что они там делают.
+
+PNG:
+ORIG: Cueball: I'm awake.
+ORIG: Megan: Finally!
+Парень: Я проснулся.
+Меган: Наконец-то!
+
+PNG:
+ORIG: Cueball: Did I sleep too long?
+ORIG: Megan: Not long enough, really. But it's getting late.
+ORIG: And I was bored.
+Парень: Я слишком долго спал?
+Меган: На самом деле, поспал ты маловато. Но становится поздно.
+А еще я заскучала.
+
+PNG:
+ORIG: Cueball: How's your leg?
+Парень: Как нога?
+
+PNG:
+ORIG: Megan: Looks OK.
+Меган: Вроде ничего.
+
+PNG:
+ORIG: Cueball: It does?
+ORIG: Megan: Sure.
+Парень: Правда?
+Меган: Конечно.

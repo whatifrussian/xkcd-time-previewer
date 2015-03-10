@@ -1,0 +1,163 @@
+SECTION: Scene 2 Part 7
+TRELLO: https://trello.com/c/axYPlT6w/294-time-scene-2-part-7
+NOTABENOID: http://notabenoid.org/book/45955/192166
+
+PNG:
+ORIG: Megan: OK. We get to the top. We look for people.
+Меган: Так. Поднимаемся на вершину. Ищем людей.
+
+PNG:
+ORIG: Megan: If we don't see any, we start back home.
+Меган: Если не находим, отправляемся домой.
+
+PNG:
+ORIG: Cueball: Sounds good.
+<<<<<
+Парень: Звучит как план.
+=====
+Парень: Хорошо.
+>>>>>
+
+PNG:
+ORIG: [After walking uphill again they reach a cliff in front of them.]
+ORIG: Megan: Neat.
+[Добираются до утеса.]
+Меган: Отлично.
+
+PNG:
+ORIG: [Some unknown items are at that cliff.]
+ORIG: Cueball: I wonder what it's for.
+[На склоне неведомые предметы.]
+Парень: Интересно, для чего это.
+
+PNG:
+ORIG: [Cueball helps Megan up to reach that cliff.]
+ORIG: Cueball: Careful.
+[Парень помогает Меган забраться на утес.]
+Парень: Осторожно.
+
+PNG:
+ORIG: Cueball: Huh.
+Парень: Ха.
+
+PNG:
+ORIG: Cueball: I guess the mountains don't go back down on the other side.
+Парень: Похоже, на другой стороне горы спуска нет.
+
+PNG:
+ORIG: Megan: I found people.
+Меган: Я людей нашла.
+
+PNG:
+ORIG: [Cueball reaches also the top floor of the tower.]
+ORIG: Cueball: Where!?
+ORIG: Megan: Over there.
+[Парень тоже залазит на башню.]
+Парень: Где?!
+Меган: Вон там.
+
+PNG:
+ORIG: Megan: It's far away.
+ORIG: But do you see the dust?
+Меган: Далеко.
+Ты видишь пыль?
+
+PNG:
+ORIG: Cueball: Yeah...
+ORIG: Megan: And I saw flashes of light.
+ORIG: Something glinting.
+Парень: Да…
+Меган: А еще я видела вспышки.
+Что-то блестит.
+
+PNG:
+ORIG: Megan: It's not far.
+ORIG: We can reach them tonight.
+Меган: Это не далеко.
+К вечеру можем добраться.
+
+PNG:
+ORIG: Cueball: Good!
+ORIG: Is walking still not too painful?
+Парень: Отлично!
+Ходить все еще не слишком больно?
+
+PNG:
+ORIG: Megan: Walking is OK. Climbing hurt.
+Меган: Ходить нормально. Больно карабкаться.
+
+PNG:
+ORIG: Cueball: You could have asked me to climb up here for you.
+ORIG: Megan: But I wanted to see.
+Парень: Могла меня попросить сюда залезть вместо тебя.
+Меган: Но я увидеть хотела.
+
+PNG:
+ORIG: Megan: Have you figured out what that ting is?
+Меган: Ты понял, что это такое?
+
+PNG:
+ORIG: Cueball: It looks like it's supposed to hold something.
+Парень: Похоже, здесь можно что-то закрепить.
+
+PNG:
+ORIG: Cueball: You can point it at things. Maybe it's a weapon.
+Парень: Можно направлять в разные стороны. Возможно, это оружие.
+
+PNG:
+ORIG: Megan: Maybe.
+Меган: Возможно.
+
+PNG:
+ORIG: Megan: But why would there be a weapon way up here?
+ORIG: What's it aimed at?
+Меган: Но зачем здесь понадобилось оружие?
+На что оно нацелено?
+
+PNG:
+ORIG: Cueball: Right now you're pointing it at our home.
+ORIG: Haven't you launched enough things at our castle?
+ORIG: Megan: No.
+Парень: Прямо сейчас ты целишься в наш дом.
+Мало тебе было всего того, чем ты в наш замок запустила?
+Меган: Мало.
+
+PNG:
+ORIG: Megan: Our poor castle.
+ORIG: I wonder what's left of it.
+Меган: Бедный наш замок.
+Интересно, что от него осталось.
+
+PNG:
+ORIG: Cueball: I think that's another tower.
+Парень: По-моему, там еще одна башня.
+
+PNG:
+ORIG: Megan: I think so, too.
+Меган: По-моему тоже.
+
+PNG:
+ORIG: [Megan looks back to Cueball.]
+ORIG: Megan: Are you OK?
+[Меган оглянулась на Парня.]
+Меган: Ты в порядке?
+
+PNG:
+ORIG: Cueball: Yeah. I just need to rest for a moment.
+Парень: Да. Нужно было только передохнуть секундочку.
+
+PNG:
+ORIG: Cueball: I don't know why I'm so out of breath.
+ORIG: Megan: I'm feeling it too.
+Парень: Не пойму, почему я так запыхался.
+Меган: Я тоже это чувствую.
+
+PNG:
+ORIG: Cueball: I wonder if the air up here is different.
+Парень: Интересно, здесь что, какой-то другой воздух?
+
+PNG:
+ORIG: Megan: Could be.
+ORIG: It's definitely cooler.
+Меган: Быть может.
+Он однозначно холоднее.

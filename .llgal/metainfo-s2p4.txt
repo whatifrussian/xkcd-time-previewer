@@ -1,0 +1,427 @@
+SECTION: Scene 2 Part 4
+TRELLO: https://trello.com/c/NJ2ueyjU/291-time-scene-2-part-4
+NOTABENOID: http://notabenoid.org/book/45955/192159
+
+PNG: 1870.png
+ORIG: [Megan continues walking.]
+ORIG: Megan: Hey-
+ORIG: I think I see water up ahead.
+[Меган продолжает идти.]
+Меган: Эй…
+Кажется, там впереди вода.
+
+PNG: 1871.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1873.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1874.png
+ORIG: Cueball: Don't worry!
+ORIG: The larger bird: Chirp
+ORIG: Cueball: You're doing a good job.
+Парень: Не волнуйся!
+Птица побольше: Чирик.
+Парень: Ты молодец.
+
+PNG: 1876.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1877.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1878.png
+ORIG: The larger bird: Chirp
+Птица побольше: Чирик.
+
+PNG: 1885.png
+ORIG: [Cueball is below a tree and Megan jumps down.]
+ORIG: Megan: Hi!
+[Парень под деревом, Меган спрыгивает.]
+<<<<<
+Меган: Привет!
+=====
+Меган: Эгей!
+>>>>>
+
+PNG: 1888.png
+ORIG: Megan: I found a tiny river.
+Меган: Я нашла крошечную речку.
+
+PNG: 1890.png
+ORIG: Megan: You ok?
+ORIG: Cueball: Yup!
+Меган: Ты в порядке?
+Парень: Ага!
+
+PNG: 1917.png
+ORIG: [Megan gets bit by a fly and wakes up.]
+ORIG: Megan: Facebug!
+[Меган кусает муха, и она просыпается.]
+Меган: Отстань!
+
+PNG: 1918.png
+ORIG: [Cueball is still sleeping.]
+ORIG: Cueball: Mrrr gblghx
+[Парень ещё спит.]
+Парень: Мррр пссшш
+
+PNG: 1926.png
+ORIG: [Megan wakes up Cueball.]
+ORIG: Megan: Hey!
+[Меган будит Парня.]
+Меган: Эй!
+
+PNG: 1927.png
+ORIG: Megan: Come see what I found!
+Меган: Смотри, что я узнала!
+
+PNG: 1928.png
+ORIG: Megan: This river is flowing toward the big one, so I followed it to see if they connected.
+Меган: Этот ручей течет в сторону реки, так что я пошла вдоль него посмотреть, соединяются ли они.
+
+PNG: 1932.png
+ORIG: [They follow the small river.]
+ORIG: Cueball: WOW.
+[Они идут вдоль малой реки.]
+Парень: УХ ТЫ.
+
+PNG: 1938.png
+ORIG: [Back at the small river.]
+ORIG: Cueball: I guess the land goes up, but the river stays at the same level.
+[Снова у малой реки.]
+Парень: Выходит, берег идет в гору, а река остается на том же уровне.
+
+PNG: 1939.png
+ORIG: Megan: The river has been going up, too.
+ORIG: But not as fast as the land.
+Меган: Река тоже поднимается.
+Но не так быстро, как берег.
+
+PNG: 1941.png
+ORIG: Megan: Can water really wear away rock like this?
+Меган: Неужели вода и правда может так источить камень?
+
+PNG: 1942.png
+ORIG: Cueball: I guess it can.
+Парень: Думаю, может.
+
+PNG: 1944.png
+ORIG: Megan: I can't imagine how long it must have taken.
+Меган: Представить не могу, сколько это заняло времени.
+
+PNG: 1945.png
+ORIG: Cueball: Yeah...
+Парень: Ага…
+
+PNG: 1950.png
+ORIG: Cueball: A lot of these rocks are pretty crumbly.
+<<<<<
+Парень: А эти камни легко крошатся.
+=====
+Парень: Здесь довольно много рыхлых камней.
+>>>>>
+
+PNG: 1951.png
+ORIG: Cueball: Even down there, between all the big rocks, the cliff walls look sandy.
+ORIG: Water eats away sand pretty fast.
+<<<<<
+Парень: Даже тут, среди больших камней, скальные отвесы кажутся песчаными.
+Вода быстро выедает песок.
+=====
+Парень: И даже там, внизу, где скалы, склоны утесов вроде как песчаные.
+Вода быстро смывает песок.
+>>>>>
+
+PNG: 1953.png
+ORIG: Megan: Yeah.
+Меган: Ага.
+
+PNG:
+ORIG: Megan: I wonder how deep it gets.
+<<<<<
+Меган: Интересно, насколько она глубокая?
+=====
+Меган: Интересно, какая здесь глубина?
+=====
+Меган: Хм. По идее, чем дальше, тем глубже.
+>>>>>
+
+PNG:
+ORIG: Cueball: Maybe it goes right through the mountain, and it's as deep as the mountain is tall.
+<<<<<
+Парень: Может, она идёт прямо сквозь гору, и глубиной с высоту горы.
+=====
+Парень: Возможно, ущелье проходит прямо сквозь гору и глубиной с ее высоту.
+>>>>>
+
+PNG:
+ORIG: Megan: It could be even deeper.
+ORIG: We don't know how far down the water goes.
+<<<<<
+Меган: А может, и ещё глубже.
+Мы не знаем, насколько глубоко проходит вода.
+=====
+Меган: А может и ещё глубже.
+Мы не знаем глубину воды.
+>>>>>
+
+PNG:
+ORIG: Cueball: Hmm.
+<<<<<
+Парень: Гмм.
+=====
+Парень: Хмм.
+>>>>>
+
+PNG:
+ORIG: Cueball: I guess it can't be much deeper than the surface of the sea.
+ORIG: If it were, it wouldn't flow fast and cut into the ground.
+ORIG: Megan: Oh. Yeah.
+<<<<<
+Парень: Не думаю, что сильно глубже, чем до уровня моря.
+Если так, то она не текла бы быстро и разрезала землю.
+Меган: О. Да.
+=====
+Парень: Едва ли гораздо глубже, чем до уровня моря. Будь она глубже, не текла бы так быстро и не вымывала бы скалы.
+Меган: Хм. Ага.
+>>>>>
+
+PNG:
+ORIG: Megan: But then, a river couldn't cut all the way through a mountain, either.
+ORIG: Because how would it get started?
+<<<<<
+Меган: Но река и не может прорезать всю гору.
+С чего бы она тогда начиналась?
+=====
+Меган: С другой стороны, река не может размыть себе путь сквозь всю гору. Где же она тогда начиналась бы?
+>>>>>
+
+PNG:
+ORIG: Megan: I wonder what the top of a mountain is like?
+<<<<<
+Меган: Интересно, на что похожа верхушка горы?
+=====
+Меган: Интересно, что там на вершине горы?
+>>>>>
+
+PNG:
+ORIG: Cueball: Let's find out.
+Парень: Давай узнаем.
+
+PNG:
+ORIG: [They reach a rock which is hard to climb.]
+ORIG: Cueball: It seems we've reached our journey's end.
+<<<<<
+[Они доходят до камня, на который трудно забраться.]
+Парень: Кажется, мы добрались до конца нашего путешествия.
+=====
+[Они доходят до камня, на который трудно забраться.]
+Парень: Похоже, наше путешествие подошло к концу.
+>>>>>
+
+PNG:
+ORIG: Megan: Want to find an easier spot?
+ORIG: Cueball: No, I can do it.
+ORIG: Let me help you up first.
+<<<<<
+Меган: Хочешь найти, где легче?
+Парень: Нет, я могу.
+Давай сначала тебя.
+=====
+Меган: Хочешь, найдем, где полегче?
+Парень: Нет, справлюсь.
+Давай сначала тебя подсажу.
+>>>>>
+
+PNG:
+ORIG: [Cueball points on that animal.]
+ORIG: Cueball: Oh!
+<<<<<
+[Парень указывает на вон то животное.]
+Парень: Ого!
+=====
+[Парень показывает на зверушку.]
+Парень: О!
+>>>>>
+
+PNG:
+ORIG: [Cueball touches the hedgehog.]
+ORIG: Megan: Careful!
+ORIG: Cueball: It's OK.
+[Парень прикасается к ежу.]
+Меган: Осторожно!
+Парень: Нормально.
+
+PNG:
+ORIG: [Cueball picks up the hedgehog.]
+ORIG: Megan: Does it hurt?
+ORIG: Cueball: It's a little prickly.
+[Парень поднимает ежа.]
+Меган: Больно?
+Парень: Немного колючий.
+
+PNG:
+ORIG: Megan: Careful, it might bite.
+ORIG: Cueball: Have you seen one before?
+ORIG: Megan: Never this close.
+Меган: Осторожно, может укусить.
+Парень: Видела их раньше?
+Меган: Так близко — никогда.
+
+PNG:
+ORIG: Megan: It's really neat.
+ORIG: Cueball: Yeah.
+Меган: Так здорово.
+Парень: Ага.
+
+PNG:
+ORIG: Cueball: Ok, we'll stop bothering you.
+Парень: Всё, больше не будем тебя беспокоить.
+
+PNG:
+ORIG: *BOP*
+*БЫНЬ*
+
+PNG:
+ORIG: Cueball: You OK?
+Парень: Порядок?
+
+PNG:
+ORIG: Megan: Yup!
+Меган: Ага!
+
+PNG:
+ORIG: Cueball: Maybe it's time to turn around.
+<<<<<
+Парень: Может, пора повернуть обратно.
+=====
+Парень: Не пора ли возвращаться?
+>>>>>
+
+PNG:
+ORIG: Cueball: The world is too big.
+ORIG: It can go on longer than we can.
+Парень: Мир слишком велик.
+Он тянется дальше, чем мы протянем.
+
+PNG:
+ORIG: Megan: I'm still going.
+Меган: Я еще на ногах.
+
+PNG:
+ORIG: Cueball: But one day we won't be. And we're a long way from home.
+Парень: Но однажды мы устанем. А до дому далеко.
+
+PNG:
+ORIG: Cueball: Earlier, I thought you wanted to turn around and go back to the sea.
+Парень: Вроде раньше ты хотела вернуться к морю.
+
+PNG:
+ORIG: Megan: I don't want to go back to it. I want to understand it.
+Меган: Я не хочу к нему возвращаться, я хочу его понять.
+
+PNG:
+ORIG: Cueball: By climbing? The sea is down, not up.
+Парень: Карабкаясь вверх? Море внизу, не сверху.
+
+PNG:
+ORIG: Megan: These bugs have such beautiful wings.
+Меган: Красивые же крылышки у этих букашек.
+
+PNG:
+ORIG: Megan: You could spend a thousand lifetimes staring at water and sand,
+ORIG: thinking as hard as you could, and you'd never guess the world had
+ORIG: things like this in it.
+Меган:
+ Можно тысячу жизней прожить, всматриваясь в песок и воду, напрягая
+извилины изо всех сил, и никогда не узнать, что в мире есть такое.
+
+PNG:
+ORIG: Megan: I wanna see the top.
+Меган: Я хочу увидеть вершину.
+
+PNG:
+ORIG: Cueball: What do think we'll find?
+ORIG: Megan: More world. Maybe different.
+<<<<<
+Парень: Что ты надеешься там найти?
+Меган: Новый кусочек мира. Возможно, необычный.
+=====
+Парень: Что по-твоему мы там найдем?
+Меган: Продолжение мира. Возможно, что-то новое.
+>>>>>
+
+PNG:
+ORIG: [Climbing, they reach a plateau with a small tree.]
+ORIG: Megan: Weird.
+[По пути вверх они находят плоскогорье с маленьким деревцем.]
+Меган: Странно.
+
+PNG:
+ORIG: [Megan climbs up the tree and tastes a fruit.]
+ORIG: Megan: PFFFTHH.
+[Меган залазит на дерево и пробует плод.]
+Меган: ТЬФУ.
+
+PNG:
+ORIG: [Megan points to a small tree, similar to a Christmas tree.]
+ORIG: Megan: Oh!
+[Меган показывает на камни, сложенные пирамидкой.]
+Меган: О!
+
+PNG:
+ORIG: [They encounter an old bunker.]
+ORIG: Megan: Hello?
+[Они находят старый шалаш.]
+Меган: Ау!
+
+PNG:
+ORIG: [Megan goes inside.]
+ORIG: Cueball: See anything?
+[Меган зашла внутрь.]
+Парень: Что-то видишь?
+
+PNG:
+ORIG: Megan: Just some old furniture. Shelves, a broken bowl.
+Меган: Просто старая мебель. Полки, разбитая миска.
+
+PNG:
+ORIG: [Megan climbs on something behind the bunker. A cougar appears, hidden by the bush to the left, behind them.]
+ORIG: Megan: Oh, hey-
+[Меган взбирается на что-то за шалашом. В кустах слева за ними появляется пума.]
+Меган: О, эй…
+
+PNG:
+ORIG: Megan: There's a stream back here.
+Меган: Тут сзади ручей.
+
+PNG:
+ORIG: Megan: And it almost looks like there's something on top of the mountain.
+Меган: И похоже, на вершине горы что-то есть.
+
+PNG:
+ORIG: Cueball: Hmm...
+ORIG: Could be.
+Парень: Хмм…
+Может быть.
+
+PNG:
+ORIG: Cueball: I think whoever lived here liked building castles, too.
+Парень: Думаю, кто бы ни жил здесь, он тоже любил строить замки.
+
+PNG:
+ORIG: Cueball: Here.
+Парень: Вот.
+
+PNG:
+ORIG: Megan: Oh!
+ORIG: You brought a flag?
+ORIG: Cueball: Yeah, I-
+Меган: О!
+Ты принёс флаг?
+Парень: Да, я…
